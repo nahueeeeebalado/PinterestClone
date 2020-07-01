@@ -1,2 +1,2 @@
 # PinterestClone
-primer cambio para github
+primer cambio para REPLIT
