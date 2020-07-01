@@ -1,2 +1,2 @@
 # PinterestClone
-primer cambio para pull en replit
+primer cambio para github
