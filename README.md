@@ -1,3 +1,3 @@
 # PinterestClone
-primer cambio para REPLIT.md
+primer cambio para REPLIT
 
